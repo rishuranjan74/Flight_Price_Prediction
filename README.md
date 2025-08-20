@@ -27,7 +27,7 @@ The performance of each model is measured using key regression metrics. The resu
 | Model | Mean Absolute Error (MAE) | R-squared ($R^2$) Score |
 | :--- | :---: | :---: |
 | **Linear Regression** | 4637.010 | 0.9046 |
-| **Random Forest Regressor** | 1076.6306] | 0.9854 |
+| **Random Forest Regressor** | 1076.6306 | 0.9854 |
 
   * **Observation**: The **Random Forest Regressor** typically outperforms the Linear Regression model, demonstrating its ability to capture complex, non-linear relationships in the data. The project provides clear evidence of which factors most significantly influence flight prices, such as the flight class and the number of days left before departure.
 
